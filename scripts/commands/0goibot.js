@@ -57,7 +57,6 @@ if ((event.body.toLowerCase() == "Magi") || (event.body.toLowerCase() == "bot ma
      return api.sendMessage("Dekhte Thak!😼😒", threadID);
    };
 
-
 if ((event.body.toLowerCase() == "bot tor bonre cudi") || (event.body.toLowerCase() == "tor bonre cudi")) {
      return api.sendMessage("তোর বউ তোর ইচ্চা🥵🥵", threadID);
    };
@@ -65,7 +64,6 @@ if ((event.body.toLowerCase() == "bot tor bonre cudi") || (event.body.toLowerCas
 if ((event.body.toLowerCase() == "Bot Sala") || (event.body.toLowerCase() == "Sala")) {
      return api.sendMessage("_আমার বস SK SHAKIL(TOM)তোর দুলাভাই_!😼😒", threadID);
    };
-
 
 if ((event.body.toLowerCase() == "cuse de") || (event.body.toLowerCase() == "Nunu cuse de")) {
      return api.sendMessage("Purota Dukiye nici🥵", threadID);
