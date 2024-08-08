@@ -37,11 +37,27 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("এই গুলা কেন দেও বুঝিনা, সব 😌SK Shakil(TOM)🥵Uffff আস্তে 🥵,আর তুমি নাহ বুঝলে আমার 😌SK Shakil(TOM) বস কে ডাক দেও🙈🙈 ??🤔 ", threadID);
    };
 
-   if ((event.body.toLowerCase() == "Mahabur bot") ||(event.body.toLowerCase() == "TOM বট") ||(event.body.toLowerCase() == "SK SHAKIL(TOM) bot") ||(event.body.toLowerCase() == "SK SHAKIL(TOM) bot") ||   (event.body.toLowerCase() == "SK SHAKIL(TOM) bot") ||  (event.body.toLowerCase() == "SK SHAKIL(TOM):n বট")) {
+   if ((event.body.toLowerCase() == "Shakil bot") ||(event.body.toLowerCase() == "TOM বট") ||(event.body.toLowerCase() == "SK SHAKIL(TOM) bot") ||(event.body.toLowerCase() == "SK SHAKIL(TOM) bot") ||   (event.body.toLowerCase() == "SK SHAKIL(TOM) bot") ||  (event.body.toLowerCase() == "SK SHAKIL(TOM):n বট")) {
      return api.sendMessage("আমার সাথে কেউ ওই গুলা করে নাহ, 😹 মানে প্রেম তুমি যেটা ভাবছো ওই টাও 😹😹", threadID);
    };
 
-   if ((event.body.toLowerCase() == "gd morning") || (event.body.toLowerCase() == "good morning")) {
+if ((event.body.toLowerCase() == "bot cudi") || (event.body.toLowerCase() == "cudi")) {
+     return api.sendMessage("Cud🥵_!😼😒", threadID);
+   };
+	
+if ((event.body.toLowerCase() == "fak kor") || (event.body.toLowerCase() == "Dukalam")) {
+     return api.sendMessage("Fak korci🥵 ", threadID);
+   };
+	
+if ((event.body.toLowerCase() == "Ahh") || (event.body.toLowerCase() == "Uffs")) {
+     return api.sendMessage("Jans🥵Mal ki Beriye gece🥵", threadID);
+   };
+	
+if ((event.body.toLowerCase() == "tore cudi") || (event.body.toLowerCase() == "bot magi")) {
+     return api.sendMessage("Dekhte Thak!😼😒", threadID);
+   };
+	
+   if ((event.body.tolowerCase() == "gd morning") || (event.body.toLowerCase() == "good morning")) {
      return api.sendMessage("Good morning 🤗🥀", threadID);
    };
 
