@@ -45,16 +45,54 @@ if ((event.body.toLowerCase() == "bot cudi") || (event.body.toLowerCase() == "cu
      return api.sendMessage("Cud🥵_!😼😒", threadID);
    };
 	
-if ((event.body.toLowerCase() == "fak kor") || (event.body.toLowerCase() == "Dukalam")) {
+if ((event.body.toLowerCase() == "fak kor") || (event.body.toLowerCase() == "Tore Cudi")) {
      return api.sendMessage("Fak korci🥵 ", threadID);
    };
 	
-if ((event.body.toLowerCase() == "Ahh") || (event.body.toLowerCase() == "Uffs")) {
+if ((event.body.toLowerCase() == "Ahhh") || (event.body.toLowerCase() == "Uff")) {
      return api.sendMessage("Jans🥵Mal ki Beriye gece🥵", threadID);
    };
 	
-if ((event.body.toLowerCase() == "tore cudi") || (event.body.toLowerCase() == "bot magi")) {
+if ((event.body.toLowerCase() == "Magi") || (event.body.toLowerCase() == "bot magi")) {
      return api.sendMessage("Dekhte Thak!😼😒", threadID);
+   };
+
+
+if ((event.body.toLowerCase() == "bot tor bonre cudi") || (event.body.toLowerCase() == "tor bonre cudi")) {
+     return api.sendMessage("তোর বউ তোর ইচ্চা🥵🥵", threadID);
+   };
+	
+if ((event.body.toLowerCase() == "Bot Sala") || (event.body.toLowerCase() == "Sala")) {
+     return api.sendMessage("_আমার বস SK SHAKIL(TOM)তোর দুলাভাই_!😼😒", threadID);
+   };
+
+
+if ((event.body.toLowerCase() == "cuse de") || (event.body.toLowerCase() == "Nunu cuse de")) {
+     return api.sendMessage("Purota Dukiye nici🥵", threadID);
+   };
+	
+if ((event.body.toLowerCase() == "mal Kha") || (event.body.toLowerCase() == "Mal Kha")) {
+     return api.sendMessage("Tui Kha😤", threadID);
+   };
+	
+if ((event.body.toLowerCase() == "Tui kha😾") || (event.body.toLowerCase() == "kha😤")) {
+     return api.sendMessage("Khacci🥺🤮", threadID);
+   };
+	
+if ((event.body.toLowerCase() == "Tor Name Ki") || (event.body.toLowerCase() == "Tor nam ki")) {
+     return api.sendMessage("Komu na Sorom Kore🤭🤭", threadID);
+   };
+	
+if ((event.body.toLowerCase() == "Shakil Magi") || (event.body.toLowerCase() == "Shakil Mc")) {
+     return api.sendMessage("Boss Re gali Dile Tor Bap Duita😒😒", threadID);
+   };
+	
+if ((event.body.toLowerCase() == "Shakil Madarcod") || (event.body.toLowerCase() == "Shakil Khangi")) {
+     return api.sendMessage("Boss Re gali Dile Tor Mare Cudi😾🥵", threadID);
+   };
+	
+if ((event.body.toLowerCase() == "Shakil Koi") || (event.body.toLowerCase() == "Shakil")) {
+     return api.sendMessage("_Boss Busy Ace Amake bol?😌", threadID);
    };
 	
    if ((event.body.tolowerCase() == "gd morning") || (event.body.toLowerCase() == "good morning")) {
