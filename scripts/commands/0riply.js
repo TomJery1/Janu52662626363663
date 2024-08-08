@@ -22,7 +22,7 @@ react.includes("ব্রেকাপ") ||
 react.includes("break up") ||
 react.includes("sex") ||
 react.includes("Jan") ||  
-react.includes("Fucking") ||
+react.includes("Fuck") ||
 react.includes("🤤")) {
 		var msg = {
 				body: "- ভালোবাসা নামক আব্লামি করতে মন চাইলে বস শাকিল এর ইনবক্স চলে জাও-!!🌚"
